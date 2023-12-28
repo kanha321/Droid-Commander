@@ -1,0 +1,19 @@
+//fun refresh() {
+//    if (!isDeveloperModeEnabled){
+//        serialNumbers = getSerialNumbers()
+//        deviceModels = getDeviceModels(serialNumbers)
+//        devicesText = getAllDevicesAsText(serialNumbers).second
+//        isDeviceConnected = getAllDevicesAsText(serialNumbers).first
+//        Log.d(TAG, "refresh: devices = $deviceModels")
+//        Log.d(TAG, "refresh: isDeviceConnected = $isDeviceConnected")
+//    }
+//    else {
+//        serialNumbers = getDummySerialNumbers()
+//        deviceModels = getDeviceModels(serialNumbers)
+//        devicesText = getAllDevicesAsText(serialNumbers).second
+//        isDeviceConnected = getAllDevicesAsText(serialNumbers).first
+//        Log.d(TAG, "refresh: devices = $deviceModels")
+//        Log.d(TAG, "refresh: isDeviceConnected = $isDeviceConnected")
+//    }
+//    iconGreen.clear()
+//}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Device Control</string>
+    <string name="title_activity_file_explorer">FileExplorer</string>
+    <string name="title_activity_action_selection">ActionSelectionActivity</string>
+    <string name="title_activity_temp">TempActivity</string>
+    <string name="title_activity_terminal">TerminalActivity</string>
+    <string name="title_activity_message_sending">MessageSendingActivity</string>
+    <string name="title_activity_app_control">AppControlActivity</string>
+</resources>
