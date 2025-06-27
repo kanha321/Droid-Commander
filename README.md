@@ -71,7 +71,6 @@ This app was developed to **demonstrate why developer options should remain disa
 This application is intended **only for educational and ethical demonstration purposes**. Use responsibly and never operate on devices without explicit authorization.
 
 - **Root Access:** While all functionalities can technically be performed without root access if ADB is properly configured, **root access is intentionally required** to prevent misuse by unauthorized users.
-- **No APK Provided:** This repository does **not provide any pre-built APK files** to ensure it is used only by those who understand its purpose and risks.
 - **Security Note:** The app does **not include ADB setup instructions** to discourage unethical use.  
 - **Warning:** Enabling developer options can pose serious security risks to device integrity and user privacy.
 
